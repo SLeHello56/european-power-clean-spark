@@ -1,5 +1,12 @@
 # European Power Trading & Clean Spark Spread
 
+**[▶ Launch the interactive Streamlit demo](https://european-power-clean-spark-prapt5tlrlgj7vg4stq4jg.streamlit.app)** — try the dashboard in your browser, no Python installation needed.
+
+**Explore:** [Python source](src/) · [Streamlit app code](app.py) · [Unit tests](tests/) · [Chart preview](assets/power-preview.png) · [Run instructions](#run)
+
+*The default example uses synthetic inputs; this is educational research, not live trading or an investment recommendation.*
+
+
 **Cross-commodity power/gas/EUA economics and forecast-driven CCGT dispatch research.**
 
 ![Clean spark spread chart](assets/power-preview.png)
